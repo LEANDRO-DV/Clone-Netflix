@@ -1,0 +1,21 @@
+/* modo responsivo das telas */
+
+@media screen and (max-width:700px){
+    header .container{
+    display: flex;
+    flex-direction: column;
+    }
+/* botão da netflix assistir agora ,mais informações */
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+    }
+
+}
+
+/* tamanho da tela 1000px  */
+@media screen and (min-width:1000px){
+    .descricao{
+        width: 50%;
+    }
+}
