@@ -4,4 +4,6 @@
 
 <h4>o site está 100 % responsivo :white_check_mark: </h4>
 <h4>tecnologias usadas HTML5/CSS3/jquery 
+  
+  <h1>link do site lok525.github.io/clone-netflix/</h1>
 
